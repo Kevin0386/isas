@@ -1,0 +1,9 @@
+{
+  "short_name": "ISAS",
+  "name": "Integrated Specialist Appointment and Referral System",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#C62828",
+  "background_color": "#0D1526"
+}
